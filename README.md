@@ -15,3 +15,5 @@
   - Currently going through this class, so far it's awesome!
 - [zstatistics: regression](http://www.zstatistics.com/videos/#/regression/)
   - I used their 2nd video to understand degrees of freedom more intuitively
+- [Linear Algebra for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
+- [Calculus for Machine Learning](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
