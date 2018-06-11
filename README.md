@@ -17,3 +17,4 @@
   - I used their 2nd video to understand degrees of freedom more intuitively
 - [Linear Algebra for Machine Learning](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
 - [Calculus for Machine Learning](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+- [General Linear Model For Neuroimaging (FSL)](http://www.fmrib.ox.ac.uk/primers/appendices/glm.pdf)
