@@ -1,3 +1,4 @@
+- [Mathmatics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [control versus adjust](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152719)
 - [3blue1brown: essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - This provides a great conceptual overview and awesome visualizations, I would recommend
